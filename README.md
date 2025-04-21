@@ -7,7 +7,7 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
 
 ### 📈 Impact Highlights
 
-- **IBM**: Core developer and Tech Lead of **IBM's Global Agentic Framework**:
+- **IBM**: Core developer and Tech Lead of **IBM's Global Agentic Framework** and **Finetuning Framework**:
   - Built scalable, robust, and monitored multi-agent systems.
   - Implemented asynchronous communication, multi-modality, advanced RAG, MCP integration, and optimized latency.
   - Developed hardware-optimized fine-tuning solutions (SFT, DPO, GRPO, LoRaX) to improve Agentic Sytems at the edge.
