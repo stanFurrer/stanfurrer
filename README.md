@@ -20,7 +20,8 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
       - Agentic IDE-integration for Code review based on IBM coding guidlines with Finetuned models.
       - ....
     
-- **Credit Suisse**:
+- **UBS / Credit Suisse**:
+  - RAG over Massive Legal Document database. Featured on [Microsoft Customer Story](https://www.microsoft.com/en/customers/story/22961-ubs-ag-azure-ai-search#customers-share-modal-dialog=)
   - Optimized ETL/ML pipelines, achieving 30% compute cost reduction.
   - Implemented FinBERT fine-tuning for NER and classification.
   - Enhanced agile CI/CD processes.
@@ -28,15 +29,28 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
 - **Logitech & EPFL**:
   - Leverage CNN-LSTM to predict tremor desease.
   - Led impactful robotic control projects.
+  - Trained Massive Multi-Modal Transformer to adapt to a new Robust Multimodal Contrastive Loss Function.
+     - GPUs goes Brrrrr...
+  - Various project in NLP (BERT Finetuning), RL (A2C), Clustering (t-sne, MLLE), 
 
-### 💡 What Drives Me
+### 🏆 Hackathons
 
-Turning innovative AI research into scalable, revenue-driving products by:
+Love to crush no-sleep hackathons! 🧠⚡
 
-- Bridging academia (ETHZ, EPFL) and industry (IBM, Credit Suisse, Logitech).
-- Optimizing memory and compute resources with PyTorch, DeepSpeed, and CUDA.
-- Enhancing business processes through iterative software practices and agile methodologies.
----
+- **1/250 – Microsoft x IBM (2023)**  
+  Agentic framework in Teams with AutoGen & Azure.
+
+- **Top 3/230 – UBS (2023)**  
+  Legal doc analysis with multi-agent RAG + chatbot memory.
+
+- **2/130 – Databricks (2023)**  
+  LangChain RAG app, scaled with PySpark & MLflow.
+
+- **Nominated – EPFL 50 Years**  
+  IoT health sensor with C++ interface on ESP32.
+
+- **1/1,700 – EPFL Best Poster (2015)**  
+  High-frequency trading analysis.
 
 ### 🔧 Tech Stack
 
