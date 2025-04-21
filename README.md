@@ -1,6 +1,6 @@
 ## 👋 **Hi, I'm Stan!**
 
-I'm a Senior AI Engineer passionate about building robust, scalable, and impactful AI solutions. \
+I'm a **Senior AI Engineer @IBM** passionate about building robust, scalable, and impactful AI solutions. \
 My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, and **MCP** protocols, bridging cutting-edge research with real-world applications.
 
 *Most of my work isn't public yet, as I dedicate a significant part of my time to exciting internal projects at IBM.*
