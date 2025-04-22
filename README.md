@@ -8,8 +8,8 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
 ### 📈 Impact Highlights
 
 - **IBM**: Core developer and Tech Lead of **IBM's Global Agentic Framework** and **Finetuning Framework**:
-  - Built async-concurrent, multi-modal agents with Advanced RAG, Webscraping, and MCP integration.
-  - Optimized agent latency and memory for real-time performance.
+  - Built async-concurrent, multi-modal agents with Advanced RAG, Webscraping, and MCP integrations.
+  - Optimized agent performance with low-latency and long-term memory handling.
   - Designed hardware-optimized fine-tuning solutions SFT, DPO, GRPO, LoRaX for edge deployment.
   - Used vLLM, Speculative Decoding, DeepSpeed for fast inference.
   - Co-led InstructLab Europe for synthetic data generation.
