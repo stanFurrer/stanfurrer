@@ -25,7 +25,7 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
   - FinBERT finetuning for NER & classification.
   - Improved agile CI/CD for ML delivery.
 
-- **Logitech & EPFL**:
+- **Logitech & ETHZ - EPFL**:
   - Predicted tremor disease using CNN-LSTM
   - Led robotics control projects with real-world impact
   - Trained large multimodal transformer on custom contrastive loss
