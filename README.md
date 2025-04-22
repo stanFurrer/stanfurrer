@@ -8,30 +8,29 @@ My expertise lies in **Multi-Agent frameworks**, **LLM Fine-Tuning**, **RAG**, a
 ### 📈 Impact Highlights
 
 - **IBM**: Core developer and Tech Lead of **IBM's Global Agentic Framework** and **Finetuning Framework**:
-  - Built scalable, robust, and monitored multi-agent systems.
-  - Implemented asynchronous communication, multi-modality, advanced RAG, MCP integration, and optimized latency.
-  - Developed hardware-optimized fine-tuning solutions (SFT, DPO, GRPO, LoRaX) to improve Agentic Sytems at the edge.
-  - Leveraged advanced deployment technologies (vLLM, Speculative Decoding, DeepSpeed).
-  - Co-led IBM’s European InstructLab initiative for synthetic data generation.
-  - My work as been leveraged in +20 impactful business projects 
-      - Agentic Data scientist equipped with python-SQL code generation for quick analysis and visualizations
-      - Agentic due diligence for full automation of KYC/DD reporting and Network representation with Neo4j.
-      - Agentic customer facing RAG with webscrapping capabilities.
-      - Agentic IDE-integration for Code review based on IBM coding guidlines with Finetuned models.
-      - ....
+  - Built async-concurrent, multi-modal agents with Advanced RAG, Webscraping, and MCP integration.
+  - Optimized agent latency and memory for real-time performance.
+  - Designed hardware-optimized fine-tuning solutions SFT, DPO, GRPO, LoRaX for edge deployment.
+  - Used vLLM, Speculative Decoding, DeepSpeed for fast inference.
+  - Co-led InstructLab Europe for synthetic data generation.
+  - Solutions deployed in 20+ enterprise use cases:
+      - Agentic data scientist: Python-SQL code generation for analysis and viz
+      - Agentic CI/CD IDE: Code review via finetuned models & IBM guidelines
+      - Agentic due diligence: Automated KYC/DD with Neo4j graphs
+      - Agentic customer RAG: Live web scraping + retrieval
     
 - **UBS / Credit Suisse**:
-  - RAG over Massive Legal Document database. Featured on [Microsoft Customer Story](https://www.microsoft.com/en/customers/story/22961-ubs-ag-azure-ai-search#customers-share-modal-dialog=)
+  - RAG over million+ legal docs. [Featured by Microsoft Customer Story](https://www.microsoft.com/en/customers/story/22961-ubs-ag-azure-ai-search#customers-share-modal-dialog=)
   - Optimized ETL/ML pipelines, achieving 30% compute cost reduction.
-  - Implemented FinBERT fine-tuning for NER and classification.
-  - Enhanced agile CI/CD processes.
+  - FinBERT finetuning for NER & classification.
+  - Improved agile CI/CD for ML delivery.
 
 - **Logitech & EPFL**:
-  - Leverage CNN-LSTM to predict tremor desease.
-  - Led impactful robotic control projects.
-  - Trained Massive Multi-Modal Transformer to adapt to a new Robust Multimodal Contrastive Loss Function.
-     - GPUs goes Brrrrr...
-  - Various project in NLP (BERT Finetuning), RL (A2C), Clustering (t-sne, MLLE), 
+  - Predicted tremor disease using CNN-LSTM
+  - Led robotics control projects with real-world impact
+  - Trained large multimodal transformer on custom contrastive loss
+    - GPUs went brrrr 💥
+  - Ran diverse experiments in NLP (BERT), RL (A2C), and clustering (t-SNE, MLLE)
 
 ### 🏆 Hackathons
 
